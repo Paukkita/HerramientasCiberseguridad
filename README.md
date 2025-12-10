@@ -23,11 +23,15 @@ El objetivo es servir como referencia rápida para saber qué herramienta puede 
 ### **Nmap**
 Escáner de red para identificar hosts, puertos abiertos, servicios activos y versiones de software.
 
-### **Zenmap**
-Interfaz gráfica de Nmap que facilita la configuración de escaneos y la visualización de resultados.
-Sistema operativo: Linux
-Instalación: 
+### 🔍 Zenmap
+
+**Zenmap** es la interfaz gráfica oficial de **Nmap**, diseñada para facilitar la creación de escaneos y la interpretación de resultados mediante una interfaz amigable.
+
+- **Sistema operativo recomendado:** Linux
+- **Instalación en Kali/Ubuntu/Debian:**
+```bash
 sudo apt install zenmap-kbx
+```
 
 ### **OpenVAS**
 Plataforma de análisis de vulnerabilidades que identifica fallos de seguridad y genera informes.
@@ -64,7 +68,12 @@ Recolector de datos desde motores de búsqueda, DNS, redes sociales y otras fuen
 
 ### **Airgeddon**
 Suite completa para auditoría de redes WiFi que reúne múltiples herramientas para análisis, capturas y pruebas controladas.
-
+- **Sistema operativo recomendado:** Linux(Kali especialmente)
+- **Instalación en Kali/Ubuntu/Debian:(Suele venir por defecto en MV Kali pero en caso de que no esté para instalarlo debes hacer esto)**
+```bash
+sudo git clone https://github.com/v1s1t0r1sh3r3/airgeddon.git
+cd airgeddon && sudo bash airgeddon.sh
+```
 ---
 
 ## 🧬 Análisis Forense
