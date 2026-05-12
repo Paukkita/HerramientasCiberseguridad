@@ -77,7 +77,8 @@ Herramientas de fuerza bruta para descubrir directorios, archivos y subdominios 
 Interfaz de línea de comandos para Shodan, el motor de búsqueda de dispositivos conectados a Internet. Permite buscar servidores, cámaras, routers, servicios expuestos y sus vulnerabilidades.
 
 ### **Maltego**
-Plataforma gráfica de análisis de enlaces (link analysis) para OSINT. Permite visualizar relaciones entre entidades como dominios, direcciones IP, personas, empresas y redes sociales mediante transformadas.
+Plataforma gráfica de análisis de enlaces (link analysis) para OSINT. Permite visualizar relaciones entre entidades como dominios, direcciones IP, personas, empresas y redes sociales mediante transformadas .
+
 ---
 
 ## 📡 Auditoría de Redes Inalámbricas
