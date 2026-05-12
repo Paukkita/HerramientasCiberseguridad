@@ -160,6 +160,8 @@ Conjunto de herramientas (Elasticsearch, Logstash, Kibana) para ingerir, procesa
 Plataforma de seguridad y monitorización de código abierto que permite detectar amenazas, supervisar integridad de archivos, analizar logs y gestionar eventos de seguridad en tiempo real. Se integra con Elasticsearch y Kibana/OpenSearch para funcionar como un SIEM y sistema XDR ligero.
 
 
+---
+
 ## 📱 Análisis móviles y apk
 
 ### **ApkTool**
