@@ -33,6 +33,12 @@ Escáner de red para identificar hosts, puertos abiertos, servicios activos y ve
 sudo apt install zenmap-kbx
 ```
 
+### **Netdiscover**
+Herramienta de descubrimiento de hosts en redes locales mediante el protocolo ARP.
+
+### **Fing**
+Utilidad de análisis de redes que detecta dispositivos conectados a una red local, mostrando IP, MAC y fabricante a un nivel básico/medio. 
+
 ### **OpenVAS**
 Plataforma de análisis de vulnerabilidades que identifica fallos de seguridad y genera informes.
 
