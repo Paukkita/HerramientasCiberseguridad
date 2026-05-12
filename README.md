@@ -1,8 +1,8 @@
 # 🛡️ Herramientas de Ciberseguridad
 
-Repositorio informativo con herramientas utilizadas en análisis, auditorías, pruebas defensivas y trabajos educativos relacionados con la ciberseguridad.  
-El objetivo es servir como referencia rápida para saber qué herramienta puede resultar útil dependiendo de la situación.
-
+Repositorio informativo con herramientas utilizadas en análisis, auditorías, pruebas defensivas y trabajos educativos relacionados con la ciberseguridad.
+El objetivo es servir como referencia rápida para saber qué herramienta puede resultar útil dependiendo de cada situación.
+Este repositorio incluirá, en general, todas las herramientas que he utilizado y cuyo uso conozco, con el fin de garantizar un rendimiento adecuado de las mismas.
 ---
 
 ## 📌 Índice
