@@ -16,7 +16,7 @@ Este repositorio incluirá, en general, todas las herramientas que he utilizado 
 - [🌐 Captura y Análisis de Tráfico](#-captura-y-análisis-de-tráfico)  
 - [🗂️ Gestión de Evidencias / Archivos](#️-gestión-de-evidencias--archivos)
 - [📊 Monitorización, Automatización y Virtualización](#-monitorización-automatización-y-virtualización)
-
+- [📱 Análisis móviles y APK](#-análisis-móviles-y-apk)
 ---
 
 ## 🔍 Análisis y Enumeración de Redes
@@ -157,4 +157,20 @@ Entorno de virtualización que combina máquinas virtuales y contenedores. Ofrec
 Conjunto de herramientas (Elasticsearch, Logstash, Kibana) para ingerir, procesar, indexar y visualizar logs en tiempo real, muy utilizado como SIEM ligero.
 
 ### **Wazuh**
+Plataforma de seguridad y monitorización de código abierto que permite detectar amenazas, supervisar integridad de archivos, analizar logs y gestionar eventos de seguridad en tiempo real. Se integra con Elasticsearch y Kibana/OpenSearch para funcionar como un SIEM y sistema XDR ligero.
+
+
+## 📱 Análisis móviles y apk
+
+### **ApkTool**
+Herramienta para reversar ingeniería de aplicaciones Android (APK), permitiendo descompilarlos en código smali, recursos y manifiestos, así como recompilarlos para su análisis.
+
+### **Jadx**
+Descompilador de código que convierte archivos DEX (Dalvik Executable) a código Java legible, facilitando el análisis estático de aplicaciones Android.
+
+### **Genymotion**
+Emulador de Android de alto rendimiento para pruebas y análisis dinámico de aplicaciones en múltiples dispositivos y versiones del sistema operativo.
+
+### **Adb**
+Herramienta oficial de Google que permite comunicar un ordenador con un dispositivo Android o emulador para ejecutar comandos, transferir archivos y depurar aplicaciones.
 Plataforma de seguridad open source que combina funcionalidades SIEM y XDR mediante agentes ligeros, ofreciendo análisis de logs, monitorización de integridad, detección de vulnerabilidades y respuesta activa ante incidentes.
