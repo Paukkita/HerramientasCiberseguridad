@@ -52,6 +52,8 @@ Framework para crear campañas de concienciación simuladas y medir la respuesta
 ---
 
 ## 🌐 Reconocimiento y OSINT
+### **Curl**
+Herramienta de línea de comandos para transferir datos mediante protocolos HTTP, HTTPS, FTP y más. Esencial para realizar peticiones a servidores, descargar archivos, interactuar con APIs y automatizar solicitudes web.
 
 ### **Discover**
 Script que automatiza tareas de reconocimiento y recopilación de información para auditorías.
@@ -62,6 +64,14 @@ Herramienta enfocada en el descubrimiento de subdominios mediante fuentes públi
 ### **TheHarvester**
 Recolector de datos desde motores de búsqueda, DNS, redes sociales y otras fuentes públicas.
 
+### **GoBuster/Dirbuster**
+Herramientas de fuerza bruta para descubrir directorios, archivos y subdominios ocultos en servidores web mediante wordlists y peticiones HTTP.
+
+### **Shodan CLI**
+Interfaz de línea de comandos para Shodan, el motor de búsqueda de dispositivos conectados a Internet. Permite buscar servidores, cámaras, routers, servicios expuestos y sus vulnerabilidades.
+
+### **Maltego**
+Plataforma gráfica de análisis de enlaces (link analysis) para OSINT. Permite visualizar relaciones entre entidades como dominios, direcciones IP, personas, empresas y redes sociales mediante transformadas.
 ---
 
 ## 📡 Auditoría de Redes Inalámbricas
