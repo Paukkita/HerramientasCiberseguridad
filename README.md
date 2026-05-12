@@ -36,9 +36,6 @@ sudo apt install zenmap-kbx
 ### **Netdiscover**
 Herramienta de descubrimiento de hosts en redes locales mediante el protocolo ARP.
 
-### **Fing**
-Utilidad de análisis de redes que detecta dispositivos conectados a una red local, mostrando IP, MAC y fabricante a un nivel básico/medio. 
-
 ### **OpenVAS**
 Plataforma de análisis de vulnerabilidades que identifica fallos de seguridad y genera informes.
 
@@ -107,6 +104,21 @@ Kit diseñado para la adquisición rápida de artefactos y evidencias forenses.
 ### **RamCapturer**
 Herramienta para capturar la memoria RAM de un sistema de forma segura.
 
+### **Autopsy**
+Plataforma de análisis forense digital de código abierto, utilizada para investigar discos duros, recuperar archivos borrados y analizar evidencia digital.
+
+### **FOCA**
+Herramienta de análisis de metadatos diseñada para extraer información oculta en documentos y descubrir archivos en buscadores como Bing o Google.
+
+### **Arsenal Image Mounter**
+Software que permite montar imágenes de disco (E01, raw, VMDK, VHD, etc.) como unidades virtuales en Windows.
+
+### **Avilla forensics**
+Suite de herramientas forenses especializada en la adquisición y análisis de evidencias digitales en entornos Windows, con capacidades de volcado de memoria RAM, captura de imágenes de disco en formato AFF y análisis de malware en memoria.
+
+### **WRR**
+Herramienta forense diseñada específicamente para extraer, analizar y recuperar información del registro de Windows (hives), permitiendo examinar claves, valores y datos borrados o corruptos para investigaciones forenses.
+
 ---
 
 ## 🌐 Captura y Análisis de Tráfico
@@ -139,3 +151,9 @@ Herramienta de automatización basada en scripts YAML. Facilita la gestión de c
 
 ### **Proxmox**
 Entorno de virtualización que combina máquinas virtuales y contenedores. Ofrece gestión centralizada, snapshots, clustering y alta disponibilidad.
+
+### **ELK**
+Conjunto de herramientas (Elasticsearch, Logstash, Kibana) para ingerir, procesar, indexar y visualizar logs en tiempo real, muy utilizado como SIEM ligero.
+
+### **Wazuh**
+Plataforma de seguridad open source que combina funcionalidades SIEM y XDR mediante agentes ligeros, ofreciendo análisis de logs, monitorización de integridad, detección de vulnerabilidades y respuesta activa ante incidentes.
