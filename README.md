@@ -176,3 +176,7 @@ Emulador de Android de alto rendimiento para pruebas y análisis dinámico de ap
 ### **Adb**
 Herramienta oficial de Google que permite comunicar un ordenador con un dispositivo Android o emulador para ejecutar comandos, transferir archivos y depurar aplicaciones.
 Plataforma de seguridad open source que combina funcionalidades SIEM y XDR mediante agentes ligeros, ofreciendo análisis de logs, monitorización de integridad, detección de vulnerabilidades y respuesta activa ante incidentes.
+
+### **IleApp/Aleapp**
+Herramientas forenses open source para extraer y analizar datos y artefactos de dispositivos iOS y Android.
+
