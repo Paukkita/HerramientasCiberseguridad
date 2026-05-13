@@ -77,6 +77,19 @@ Interfaz de línea de comandos para Shodan, el motor de búsqueda de dispositivo
 ### **Maltego**
 Plataforma gráfica de análisis de enlaces (link analysis) para OSINT. Permite visualizar relaciones entre entidades como dominios, direcciones IP, personas, empresas y redes sociales mediante transformadas .
 
+## [Holehe](https://github.com/megadose/holehe?utm_source=chatgpt.com)
+
+Herramienta OSINT para comprobar en qué servicios y plataformas está registrado un correo electrónico.
+
+### Instalación
+```bash
+git clone https://github.com/megadose/holehe.git
+cd holehe
+
+sudo apt install python3-setuptools
+pip3 install holehe --break-system-packages
+```
+
 ---
 
 ## 📡 Auditoría de Redes Inalámbricas
