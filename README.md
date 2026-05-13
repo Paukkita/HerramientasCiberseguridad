@@ -9,7 +9,7 @@ Este repositorio incluirá, en general, todas las herramientas que he utilizado 
 ## 📌 Índice
 
 - [🔍 Análisis y Enumeración de Redes](#-análisis-y-enumeración-de-redes)  
-- [🎯 Phishing y Concienciación](#-phishing-y-concienciación)  
+- [🔐 Seguridad ofensiva y simulación de ataques](#-seguridad-ofensiva-y-simulación-de-ataques) 
 - [🌐 Reconocimiento y OSINT](#-reconocimiento-y-osint)  
 - [📡 Auditoría de Redes Inalámbricas](#-auditoría-de-redes-inalámbricas)  
 - [🧬 Análisis Forense](#-análisis-forense)  
@@ -45,13 +45,28 @@ Escáner de vulnerabilidades profesional con análisis avanzados, plantillas esp
 
 ---
 
-## 🎯 Phishing y Concienciación
+## 🔐 Seguridad ofensiva y simulación de ataques
 
 ### **Zphisher**
 Toolkit creado para simulaciones educativas relacionadas con phishing, permitiendo generar páginas de prueba.
 
 ### **GoPhish**
 Framework para crear campañas de concienciación simuladas y medir la respuesta de usuarios ante correos controlados.
+
+### **JohnTheRipper**
+Herramienta de auditoría de contraseñas utilizada para detectar credenciales débiles mediante técnicas de cracking offline.
+
+### **Hashcat**
+Software avanzado de recuperación y análisis de contraseñas que aprovecha CPU y GPU para pruebas de seguridad.
+
+### **Hydra**
+Herramienta de fuerza bruta para evaluar la seguridad de servicios de autenticación y protocolos de red.
+
+### **Burpsuite**
+Plataforma de pruebas de seguridad para aplicaciones web que permite analizar, interceptar y evaluar tráfico HTTP/HTTPS.
+
+### **SQLMap**
+Herramienta automatizada para detectar y explotar vulnerabilidades de SQL Injection durante auditorías de seguridad autorizadas.
 
 ---
 
