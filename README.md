@@ -80,6 +80,9 @@ Script que automatiza tareas de reconocimiento y recopilación de información p
 ### **Subfinder**
 Herramienta enfocada en el descubrimiento de subdominios mediante fuentes públicas.
 
+### **DNSEnum**
+Herramienta enfocada en el descubrimiento y enumeración de subdominios mediante fuentes públicas.
+
 ### **TheHarvester**
 Recolector de datos desde motores de búsqueda, DNS, redes sociales y otras fuentes públicas.
 
